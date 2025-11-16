@@ -1,60 +1,63 @@
-# 📊 Higher Education Choice Analysis Dashboard
-*A Power BI Research & Insights Project*
+# 🌱 Organic Food Consumer Insights Dashboard
+*A Power BI Market Research & Behavioral Analysis Project*
 
 ---
 
 ## 📌 Project Overview
-This project analyzes the key factors influencing how students choose higher educational institutions. Using structured survey data, the dashboard highlights the psychological, social, and informational drivers behind student decision-making.
+This dashboard provides a structured analysis of consumer awareness, perceptions, and purchasing behavior related to organic food products.  
+Using survey-based primary data, the project uncovers key psychological, marketing, and lifestyle factors that influence consumer decisions.
 
-The insights support academic research, institutional planning, and student engagement strategies.
+The insights help in understanding market readiness, advertising effectiveness, and patterns in product adoption.
 
 ---
 
 ## 🎯 Objectives
-- Identify the core **needs, motivations, and perceptions** of students  
-- Measure the impact of **advertising, parental guidance, peer influence, and cultural factors**  
-- Examine which **information sources** students trust most  
-- Visualize **Likert-scale patterns** across multiple decision-making dimensions  
-- Provide a clean, **two-page analytical dashboard** for quick insights and comparisons  
+- Evaluate **consumer awareness and trust** in organic products  
+- Analyze **purchase frequency**, product preferences, and lifestyle indicators  
+- Measure the impact of **advertising, packaging, health beliefs, and pricing**  
+- Visualize Likert-scale attitudes toward organic food  
+- Build a clean, **two-page analytical dashboard** for actionable insights  
 
 ---
 
 ## 🛠 Tools & Techniques
-- **Power BI** – Data modeling, visualization, DAX  
-- **DAX Measures** – Averages, ranking, mode indicators, composite indices  
-- **Python Visuals** – Boxplot distributions integrated into Power BI  
-- **Excel** – Data cleaning and preprocessing  
+- **Power BI** – Data modeling, DAX measures, interactive visuals  
+- **DAX** – Ranking, composite indices, Likert scoring, calculated KPIs  
+- **Python (Power BI)** – Boxplots for attitude and perception analysis  
+- **Excel** – Preprocessing, data cleaning  
 
 ---
 
 ## 📈 Dashboard Structure
 
-### **Page 1 – Student Profile & Decision Drivers**
-- Interactive demographic slicers  
-- KPI cards:
-  - **Most Common Need**  
-  - **Most Used Advice Source**
-- Visual summaries:
-  - Education level distribution  
-  - Preferred graduate outcomes  
-  - Awareness/advertising channels  
-  - Key influence factors  
+### **Page 1 – Consumer Profile & Purchase Behavior**
+- Demographic and preference-based slicers  
+- Key metrics:
+  - **Purchase Frequency**
+  - **Awareness Level**
+- Visuals:
+  - Product preference distribution  
+  - Packaging & advertisement impact  
+  - Lifestyle indicator summaries  
 
 ---
 
-### **Page 2 – Influence Factor Deep Dive**
-- Category-wise Likert averages  
-- Composite indices for factor comparison  
-- Ranked horizontal bar chart for psychological + external influences  
-- Python-powered boxplots showing response distribution  
+### **Page 2 – Influence & Behavioral Analysis**
+- Likert-scale boxplots via Python  
+- Ranked bar chart of key influence drivers  
+- Composite indices:
+  - **Health Influence Index**
+  - **Advertising Impact Score**
+- Behavioral segmentation visuals for deeper insights  
 
 ---
 
-## ✨ Insights
-- Clear comparison between **social influence vs advertisement** impact  
-- Ranked view of the strongest decision-making drivers  
-- Boxplots highlight variability and sentiment spread across factors  
-- Top student needs and trusted advice sources derived using **custom DAX mode formulas**
+## ✨ Key Insights
+- Clear understanding of which product categories attract the most interest  
+- Relationship between **awareness and purchase frequency**  
+- Advertising vs packaging vs pricing — comparison of strongest motivators  
+- Psychological attitude patterns visualized through Likert distributions  
+- Identification of top behavioral segments for marketing focus  
 
 ---
 

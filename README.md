@@ -1,4 +1,4 @@
-# 🌱 Organic Food Consumer Insights Dashboard
+# 🌱 Behavioral Study – Organic Food Advertising 
 *A Power BI Market Research & Behavioral Analysis Project*
 
 ---
